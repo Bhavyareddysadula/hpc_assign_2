@@ -1,12 +1,12 @@
-# hpc_assign_2
+## hpc_assign_2
 
-# Concurrent Double-Linked List
+## Concurrent Double-Linked List
 
 ## Introduction
 
 This Java program showcases a concurrent double-linked list data structure and assesses its performance by employing different synchronization methods. The objective is to gauge the efficiency of this concurrent data structure across a range of scenarios, including different problem sizes, thread counts, and workloads.
 
-### Synchronization Techniques
+## Synchronization Techniques
 
 1. Coarse-Grain Synchronization: In this approach, the entire list is locked when any operation is performed. This means only one thread can access the list at a time, ensuring exclusive access during operations.
 
