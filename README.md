@@ -53,27 +53,27 @@ Three types of workloads:
 
 ## Output
 
-1. Coarse-Grain Synchronization throughput for different workloads :
+1. Coarse-Grain Synchronization throughput :
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/c2e125a4-a1a7-43cf-b933-2a4d572a2861)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/7becbb74-a765-416f-ba54-38699d3828fd)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/4f748fb4-f47a-4d72-a54a-ad4948f6b886)
 
-2. Fine-Grain Synchronization throuhput for different workloads :
+2. Fine-Grain Synchronization throuhput :
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/737a25dd-f819-4e77-9770-9c445fcb73f0)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/431790ef-0142-4e7a-96aa-0ff1c5900933)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/65b2e4f5-872e-491a-a10d-3bd0360b6d93)
 
-3. Optimistic Synchronization throuhput for different workloads :
+3. Optimistic Synchronization throuhput :
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/ab4da44d-179f-4b8b-905b-62559e28bdf1)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/ee081487-0b3e-4ad1-9057-ae48d70ec26c)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/d3b7939a-782a-4e68-98fa-e2a5bca5d302)
 
-4. Lazy Synchronization throuhput for different workloads :
+4. Lazy Synchronization throuhput :
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/45d4fbc3-2b6f-4883-b23b-d28f7830ef04)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/3f8ff2a6-a0ae-4516-ad80-83b55c483a53)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/52991db7-70df-4eaa-8d00-3e5fb2f7489c)
 
-5. Non-Blocking Synchronization throuhput for different workloads :
+5. Non-Blocking Synchronization throuhput :
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/d3ce220f-1a40-465a-a66b-11492ae9110b)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/ed8c4527-b93f-446c-aa4b-3ce02b822f75)
       ![image](https://github.com/Bhavyareddysadula/hpc_assign_2/assets/126856102/28558932-9702-4ea3-8fbf-031e183cbb12)
