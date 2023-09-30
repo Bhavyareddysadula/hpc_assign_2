@@ -1,4 +1,4 @@
-## hpc_assign_2
+## HPC_ASSIGN_2
 
 ## Concurrent Double-Linked List
 
